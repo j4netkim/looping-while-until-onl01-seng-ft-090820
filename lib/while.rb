@@ -1,4 +1,4 @@
-using_while = 6
+
 
 def using_while
 while levitation_force < 10
